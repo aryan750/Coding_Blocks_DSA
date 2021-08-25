@@ -1,0 +1,36 @@
+
+
+swap(a,b)
+- used to swap the element a and b position
+
+find(arr,arr+n,key)
+- used to find key in array
+
+
+binary_search(arr,arr+n,key)
+-used to do binary search and return the true and false
+
+next_permutation(v.begin(),v.end())
+- used to give different permutations using all the elements of the array
+
+rotate(arr,arr+2,arr+n)
+- used to change the order of the array and 1,2,3 to 2,3,1
+
+lower_bound(arr,arr+n,key)
+- used to give the element in the array >= key 
+
+upper_bound(arr,arr+n,key)
+- used to give the element in the array > key
+
+sort(arr,arr+n,compare)
+- used to sort the array using an compare function
+
+reverse(arr,arr+n)
+- used to reverse the array form 0 to n
+
+pair<int,int> p
+- used to make pair of int and int 
+
+	make_pair(a,b)
+	- is also used to make pair 
+
